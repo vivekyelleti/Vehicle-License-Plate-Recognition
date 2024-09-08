@@ -7,6 +7,8 @@ This project implements a number plate recognition system using YOLOv8 for detec
 # Dataset
 The dataset used for training and testing the YOLOv8 model is sourced from Kaggle’s Object Detection YOLO OCR dataset. It contains annotated images of vehicles with visible number plates, ensuring a wide variety of images for robust model training and testing.
 
+Source of the dataset: https://www.kaggle.com/datasets/andrewmvd/car-plate-detection/data 
+
 # Features
 
 YOLOv8 Object Detection: Detects vehicle number plates in real-time from images.
